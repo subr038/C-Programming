@@ -3,5 +3,8 @@
 //
 #include <stdio.h>
 int main() {
-    printf("Hello World");
+    const int a = 5;
+    const int b = 10;
+    const int c = a + b;
+    printf("Sum is %d", c);
 }
