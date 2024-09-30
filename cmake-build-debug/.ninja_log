@@ -1,5 +1,4 @@
 # ninja log v6
-11	300	7494128122450121	CMakeFiles/C_programming.dir/HelloWorld.c.obj	b59aaa9d2532473f
-303	619	7494128125369093	C_programming.exe	45f3bf4c80153ac0
 13	293	7494131884332709	CMakeFiles/C_programming.dir/HelloWorld.c.obj	b59aaa9d2532473f
 294	561	7494131887131744	C_programming.exe	45f3bf4c80153ac0
+22	158	7494133763139658	CMakeFiles/C_programming.dir/Calculation.c.obj	912f1e1d167f43e3
